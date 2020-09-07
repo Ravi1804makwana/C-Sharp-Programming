@@ -1,0 +1,6 @@
+G:\C# Programming\DependencyInjection\DbConnectionn\bin\Debug\DbConnectionn.exe.config
+G:\C# Programming\DependencyInjection\DbConnectionn\bin\Debug\DbConnectionn.exe
+G:\C# Programming\DependencyInjection\DbConnectionn\bin\Debug\DbConnectionn.pdb
+G:\C# Programming\DependencyInjection\DbConnectionn\obj\Debug\DbConnectionn.csproj.CoreCompileInputs.cache
+G:\C# Programming\DependencyInjection\DbConnectionn\obj\Debug\DbConnectionn.exe
+G:\C# Programming\DependencyInjection\DbConnectionn\obj\Debug\DbConnectionn.pdb

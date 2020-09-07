@@ -1,0 +1,7 @@
+G:\C# Programming\Composition\Composition\bin\Debug\Composition.exe.config
+G:\C# Programming\Composition\Composition\bin\Debug\Composition.exe
+G:\C# Programming\Composition\Composition\bin\Debug\Composition.pdb
+G:\C# Programming\Composition\Composition\obj\Debug\Composition.csprojAssemblyReference.cache
+G:\C# Programming\Composition\Composition\obj\Debug\Composition.csproj.CoreCompileInputs.cache
+G:\C# Programming\Composition\Composition\obj\Debug\Composition.exe
+G:\C# Programming\Composition\Composition\obj\Debug\Composition.pdb

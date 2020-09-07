@@ -1,0 +1,7 @@
+G:\C# Programming\DependencyInjection\ActivityControl\bin\Debug\ActivityControl.exe.config
+G:\C# Programming\DependencyInjection\ActivityControl\bin\Debug\ActivityControl.exe
+G:\C# Programming\DependencyInjection\ActivityControl\bin\Debug\ActivityControl.pdb
+G:\C# Programming\DependencyInjection\ActivityControl\obj\Debug\ActivityControl.csprojAssemblyReference.cache
+G:\C# Programming\DependencyInjection\ActivityControl\obj\Debug\ActivityControl.csproj.CoreCompileInputs.cache
+G:\C# Programming\DependencyInjection\ActivityControl\obj\Debug\ActivityControl.exe
+G:\C# Programming\DependencyInjection\ActivityControl\obj\Debug\ActivityControl.pdb

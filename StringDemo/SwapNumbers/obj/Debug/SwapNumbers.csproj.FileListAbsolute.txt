@@ -1,0 +1,7 @@
+G:\C# Programming\StringDemo\SwapNumbers\bin\Debug\SwapNumbers.exe.config
+G:\C# Programming\StringDemo\SwapNumbers\bin\Debug\SwapNumbers.exe
+G:\C# Programming\StringDemo\SwapNumbers\bin\Debug\SwapNumbers.pdb
+G:\C# Programming\StringDemo\SwapNumbers\obj\Debug\SwapNumbers.csprojAssemblyReference.cache
+G:\C# Programming\StringDemo\SwapNumbers\obj\Debug\SwapNumbers.csproj.CoreCompileInputs.cache
+G:\C# Programming\StringDemo\SwapNumbers\obj\Debug\SwapNumbers.exe
+G:\C# Programming\StringDemo\SwapNumbers\obj\Debug\SwapNumbers.pdb

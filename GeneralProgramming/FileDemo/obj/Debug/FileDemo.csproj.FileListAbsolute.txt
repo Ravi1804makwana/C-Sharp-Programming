@@ -1,0 +1,7 @@
+G:\C# Programming\GeneralProgramming\FileDemo\bin\Debug\FileDemo.exe.config
+G:\C# Programming\GeneralProgramming\FileDemo\bin\Debug\FileDemo.exe
+G:\C# Programming\GeneralProgramming\FileDemo\bin\Debug\FileDemo.pdb
+G:\C# Programming\GeneralProgramming\FileDemo\obj\Debug\FileDemo.csprojAssemblyReference.cache
+G:\C# Programming\GeneralProgramming\FileDemo\obj\Debug\FileDemo.csproj.CoreCompileInputs.cache
+G:\C# Programming\GeneralProgramming\FileDemo\obj\Debug\FileDemo.exe
+G:\C# Programming\GeneralProgramming\FileDemo\obj\Debug\FileDemo.pdb

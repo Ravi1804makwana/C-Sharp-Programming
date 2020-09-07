@@ -1,0 +1,7 @@
+G:\C# Programming\DateAndTimeDemo\DateAndTimeDemo\bin\Debug\DateAndTimeDemo.exe.config
+G:\C# Programming\DateAndTimeDemo\DateAndTimeDemo\bin\Debug\DateAndTimeDemo.exe
+G:\C# Programming\DateAndTimeDemo\DateAndTimeDemo\bin\Debug\DateAndTimeDemo.pdb
+G:\C# Programming\DateAndTimeDemo\DateAndTimeDemo\obj\Debug\DateAndTimeDemo.csprojAssemblyReference.cache
+G:\C# Programming\DateAndTimeDemo\DateAndTimeDemo\obj\Debug\DateAndTimeDemo.csproj.CoreCompileInputs.cache
+G:\C# Programming\DateAndTimeDemo\DateAndTimeDemo\obj\Debug\DateAndTimeDemo.exe
+G:\C# Programming\DateAndTimeDemo\DateAndTimeDemo\obj\Debug\DateAndTimeDemo.pdb

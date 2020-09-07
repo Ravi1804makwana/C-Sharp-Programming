@@ -1,0 +1,7 @@
+G:\C# Programming\InheritanceDemo\InterfaceInheritance\bin\Debug\InterfaceInheritance.exe.config
+G:\C# Programming\InheritanceDemo\InterfaceInheritance\bin\Debug\InterfaceInheritance.exe
+G:\C# Programming\InheritanceDemo\InterfaceInheritance\bin\Debug\InterfaceInheritance.pdb
+G:\C# Programming\InheritanceDemo\InterfaceInheritance\obj\Debug\InterfaceInheritance.csprojAssemblyReference.cache
+G:\C# Programming\InheritanceDemo\InterfaceInheritance\obj\Debug\InterfaceInheritance.csproj.CoreCompileInputs.cache
+G:\C# Programming\InheritanceDemo\InterfaceInheritance\obj\Debug\InterfaceInheritance.exe
+G:\C# Programming\InheritanceDemo\InterfaceInheritance\obj\Debug\InterfaceInheritance.pdb

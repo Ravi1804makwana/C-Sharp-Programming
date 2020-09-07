@@ -1,0 +1,7 @@
+G:\C# Programming\MethodsDemo\MethodsDemo\bin\Debug\MethodsDemo.exe.config
+G:\C# Programming\MethodsDemo\MethodsDemo\bin\Debug\MethodsDemo.exe
+G:\C# Programming\MethodsDemo\MethodsDemo\bin\Debug\MethodsDemo.pdb
+G:\C# Programming\MethodsDemo\MethodsDemo\obj\Debug\MethodsDemo.csprojAssemblyReference.cache
+G:\C# Programming\MethodsDemo\MethodsDemo\obj\Debug\MethodsDemo.csproj.CoreCompileInputs.cache
+G:\C# Programming\MethodsDemo\MethodsDemo\obj\Debug\MethodsDemo.exe
+G:\C# Programming\MethodsDemo\MethodsDemo\obj\Debug\MethodsDemo.pdb

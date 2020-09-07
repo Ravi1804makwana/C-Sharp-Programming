@@ -1,0 +1,7 @@
+G:\C# Programming\DependencyInjection\StackDemo\bin\Debug\StackDemo.exe.config
+G:\C# Programming\DependencyInjection\StackDemo\bin\Debug\StackDemo.exe
+G:\C# Programming\DependencyInjection\StackDemo\bin\Debug\StackDemo.pdb
+G:\C# Programming\DependencyInjection\StackDemo\obj\Debug\StackDemo.csprojAssemblyReference.cache
+G:\C# Programming\DependencyInjection\StackDemo\obj\Debug\StackDemo.csproj.CoreCompileInputs.cache
+G:\C# Programming\DependencyInjection\StackDemo\obj\Debug\StackDemo.exe
+G:\C# Programming\DependencyInjection\StackDemo\obj\Debug\StackDemo.pdb

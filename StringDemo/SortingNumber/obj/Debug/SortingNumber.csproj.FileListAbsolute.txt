@@ -1,0 +1,6 @@
+G:\C# Programming\StringDemo\SortingNumber\bin\Debug\SortingNumber.exe.config
+G:\C# Programming\StringDemo\SortingNumber\bin\Debug\SortingNumber.exe
+G:\C# Programming\StringDemo\SortingNumber\bin\Debug\SortingNumber.pdb
+G:\C# Programming\StringDemo\SortingNumber\obj\Debug\SortingNumber.csproj.CoreCompileInputs.cache
+G:\C# Programming\StringDemo\SortingNumber\obj\Debug\SortingNumber.exe
+G:\C# Programming\StringDemo\SortingNumber\obj\Debug\SortingNumber.pdb

@@ -1,0 +1,7 @@
+G:\C# Programming\DependencyInjection\StopWatch\bin\Debug\StopWatch.exe.config
+G:\C# Programming\DependencyInjection\StopWatch\bin\Debug\StopWatch.exe
+G:\C# Programming\DependencyInjection\StopWatch\bin\Debug\StopWatch.pdb
+G:\C# Programming\DependencyInjection\StopWatch\obj\Debug\StopWatch.csprojAssemblyReference.cache
+G:\C# Programming\DependencyInjection\StopWatch\obj\Debug\StopWatch.csproj.CoreCompileInputs.cache
+G:\C# Programming\DependencyInjection\StopWatch\obj\Debug\StopWatch.exe
+G:\C# Programming\DependencyInjection\StopWatch\obj\Debug\StopWatch.pdb

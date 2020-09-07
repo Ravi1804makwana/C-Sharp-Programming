@@ -1,0 +1,7 @@
+G:\C# Programming\GeneralProgramming\GeneralProgramming\bin\Debug\GeneralProgramming.exe.config
+G:\C# Programming\GeneralProgramming\GeneralProgramming\bin\Debug\GeneralProgramming.exe
+G:\C# Programming\GeneralProgramming\GeneralProgramming\bin\Debug\GeneralProgramming.pdb
+G:\C# Programming\GeneralProgramming\GeneralProgramming\obj\Debug\GeneralProgramming.csprojAssemblyReference.cache
+G:\C# Programming\GeneralProgramming\GeneralProgramming\obj\Debug\GeneralProgramming.csproj.CoreCompileInputs.cache
+G:\C# Programming\GeneralProgramming\GeneralProgramming\obj\Debug\GeneralProgramming.exe
+G:\C# Programming\GeneralProgramming\GeneralProgramming\obj\Debug\GeneralProgramming.pdb

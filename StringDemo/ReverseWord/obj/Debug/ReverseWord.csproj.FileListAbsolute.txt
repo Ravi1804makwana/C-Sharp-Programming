@@ -1,0 +1,6 @@
+G:\C# Programming\StringDemo\ReverseWord\obj\Debug\ReverseWord.csproj.CoreCompileInputs.cache
+G:\C# Programming\StringDemo\ReverseWord\bin\Debug\ReverseWord.exe.config
+G:\C# Programming\StringDemo\ReverseWord\bin\Debug\ReverseWord.exe
+G:\C# Programming\StringDemo\ReverseWord\bin\Debug\ReverseWord.pdb
+G:\C# Programming\StringDemo\ReverseWord\obj\Debug\ReverseWord.exe
+G:\C# Programming\StringDemo\ReverseWord\obj\Debug\ReverseWord.pdb

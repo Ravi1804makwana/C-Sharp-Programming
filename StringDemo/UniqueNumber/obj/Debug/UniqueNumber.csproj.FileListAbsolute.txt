@@ -1,0 +1,7 @@
+G:\C# Programming\StringDemo\UniqueNumber\bin\Debug\UniqueNumber.exe.config
+G:\C# Programming\StringDemo\UniqueNumber\bin\Debug\UniqueNumber.exe
+G:\C# Programming\StringDemo\UniqueNumber\bin\Debug\UniqueNumber.pdb
+G:\C# Programming\StringDemo\UniqueNumber\obj\Debug\UniqueNumber.csprojAssemblyReference.cache
+G:\C# Programming\StringDemo\UniqueNumber\obj\Debug\UniqueNumber.csproj.CoreCompileInputs.cache
+G:\C# Programming\StringDemo\UniqueNumber\obj\Debug\UniqueNumber.exe
+G:\C# Programming\StringDemo\UniqueNumber\obj\Debug\UniqueNumber.pdb

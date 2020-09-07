@@ -1,0 +1,7 @@
+G:\C# Programming\StringDemo\TextSummarising\bin\Debug\TextSummarising.exe.config
+G:\C# Programming\StringDemo\TextSummarising\bin\Debug\TextSummarising.exe
+G:\C# Programming\StringDemo\TextSummarising\bin\Debug\TextSummarising.pdb
+G:\C# Programming\StringDemo\TextSummarising\obj\Debug\TextSummarising.csproj.CoreCompileInputs.cache
+G:\C# Programming\StringDemo\TextSummarising\obj\Debug\TextSummarising.exe
+G:\C# Programming\StringDemo\TextSummarising\obj\Debug\TextSummarising.pdb
+G:\C# Programming\StringDemo\TextSummarising\obj\Debug\TextSummarising.csprojAssemblyReference.cache

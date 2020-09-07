@@ -1,0 +1,7 @@
+G:\C# Programming\StructVsClass\StructVsClass\bin\Debug\StructVsClass.exe.config
+G:\C# Programming\StructVsClass\StructVsClass\bin\Debug\StructVsClass.exe
+G:\C# Programming\StructVsClass\StructVsClass\bin\Debug\StructVsClass.pdb
+G:\C# Programming\StructVsClass\StructVsClass\obj\Debug\StructVsClass.csprojAssemblyReference.cache
+G:\C# Programming\StructVsClass\StructVsClass\obj\Debug\StructVsClass.csproj.CoreCompileInputs.cache
+G:\C# Programming\StructVsClass\StructVsClass\obj\Debug\StructVsClass.exe
+G:\C# Programming\StructVsClass\StructVsClass\obj\Debug\StructVsClass.pdb

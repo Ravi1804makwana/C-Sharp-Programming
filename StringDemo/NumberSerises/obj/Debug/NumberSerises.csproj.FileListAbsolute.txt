@@ -1,0 +1,7 @@
+G:\C# Programming\StringDemo\NumberSerises\bin\Debug\NumberSerises.exe.config
+G:\C# Programming\StringDemo\NumberSerises\bin\Debug\NumberSerises.exe
+G:\C# Programming\StringDemo\NumberSerises\bin\Debug\NumberSerises.pdb
+G:\C# Programming\StringDemo\NumberSerises\obj\Debug\NumberSerises.csproj.CoreCompileInputs.cache
+G:\C# Programming\StringDemo\NumberSerises\obj\Debug\NumberSerises.exe
+G:\C# Programming\StringDemo\NumberSerises\obj\Debug\NumberSerises.pdb
+G:\C# Programming\StringDemo\NumberSerises\obj\Debug\NumberSerises.csprojAssemblyReference.cache

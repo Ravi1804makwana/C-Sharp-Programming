@@ -1,0 +1,7 @@
+G:\C# Programming\StructureDemo\Indexer\bin\Debug\Indexer.exe.config
+G:\C# Programming\StructureDemo\Indexer\bin\Debug\Indexer.exe
+G:\C# Programming\StructureDemo\Indexer\bin\Debug\Indexer.pdb
+G:\C# Programming\StructureDemo\Indexer\obj\Debug\Indexer.csprojAssemblyReference.cache
+G:\C# Programming\StructureDemo\Indexer\obj\Debug\Indexer.csproj.CoreCompileInputs.cache
+G:\C# Programming\StructureDemo\Indexer\obj\Debug\Indexer.exe
+G:\C# Programming\StructureDemo\Indexer\obj\Debug\Indexer.pdb
