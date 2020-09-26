@@ -1,0 +1,7 @@
+G:\C# Programming\GenericsProgramming\GenericsProgramming\bin\Debug\GenericsProgramming.exe.config
+G:\C# Programming\GenericsProgramming\GenericsProgramming\bin\Debug\GenericsProgramming.exe
+G:\C# Programming\GenericsProgramming\GenericsProgramming\bin\Debug\GenericsProgramming.pdb
+G:\C# Programming\GenericsProgramming\GenericsProgramming\obj\Debug\GenericsProgramming.csprojAssemblyReference.cache
+G:\C# Programming\GenericsProgramming\GenericsProgramming\obj\Debug\GenericsProgramming.csproj.CoreCompileInputs.cache
+G:\C# Programming\GenericsProgramming\GenericsProgramming\obj\Debug\GenericsProgramming.exe
+G:\C# Programming\GenericsProgramming\GenericsProgramming\obj\Debug\GenericsProgramming.pdb
