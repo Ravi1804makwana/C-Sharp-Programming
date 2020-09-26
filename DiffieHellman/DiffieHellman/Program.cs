@@ -60,8 +60,8 @@ namespace DiffieHellman
                     case 3:
                         Console.Write("Please enter the prime number : ");
                         p = int.Parse(Console.ReadLine());
-                        a = DHAlgorithm.GetSecretKey(1, 100000);
-                        b = DHAlgorithm.GetSecretKey(1, 10000);
+                        a = DHAlgorithm.GetSecretKey(2, p-2);
+                        b = DHAlgorithm.GetSecretKey(2, p-2);
                         g = DHAlgorithm.GetPrimitiveRoot(p);
                         DHAlgorithm.DHKeyExchange(p, g, a, b);
                         break;

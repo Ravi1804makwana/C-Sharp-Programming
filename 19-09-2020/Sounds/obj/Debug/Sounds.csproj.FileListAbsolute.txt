@@ -1,0 +1,7 @@
+G:\C# Programming\19-09-2020\Sounds\bin\Debug\Sounds.exe.config
+G:\C# Programming\19-09-2020\Sounds\bin\Debug\Sounds.exe
+G:\C# Programming\19-09-2020\Sounds\bin\Debug\Sounds.pdb
+G:\C# Programming\19-09-2020\Sounds\obj\Debug\Sounds.csproj.CoreCompileInputs.cache
+G:\C# Programming\19-09-2020\Sounds\obj\Debug\Sounds.exe
+G:\C# Programming\19-09-2020\Sounds\obj\Debug\Sounds.pdb
+G:\C# Programming\19-09-2020\Sounds\obj\Debug\Sounds.csprojAssemblyReference.cache

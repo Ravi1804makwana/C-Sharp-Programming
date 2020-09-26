@@ -1,0 +1,7 @@
+G:\C# Programming\19-09-2020\PerfectNumber\bin\Debug\PerfectNumber.exe.config
+G:\C# Programming\19-09-2020\PerfectNumber\bin\Debug\PerfectNumber.exe
+G:\C# Programming\19-09-2020\PerfectNumber\bin\Debug\PerfectNumber.pdb
+G:\C# Programming\19-09-2020\PerfectNumber\obj\Debug\PerfectNumber.csproj.CoreCompileInputs.cache
+G:\C# Programming\19-09-2020\PerfectNumber\obj\Debug\PerfectNumber.exe
+G:\C# Programming\19-09-2020\PerfectNumber\obj\Debug\PerfectNumber.pdb
+G:\C# Programming\19-09-2020\PerfectNumber\obj\Debug\PerfectNumber.csprojAssemblyReference.cache

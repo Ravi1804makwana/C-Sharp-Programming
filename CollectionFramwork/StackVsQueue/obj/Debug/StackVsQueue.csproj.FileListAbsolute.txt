@@ -1,0 +1,7 @@
+G:\C# Programming\CollectionFramwork\StackVsQueue\bin\Debug\StackVsQueue.exe.config
+G:\C# Programming\CollectionFramwork\StackVsQueue\bin\Debug\StackVsQueue.exe
+G:\C# Programming\CollectionFramwork\StackVsQueue\bin\Debug\StackVsQueue.pdb
+G:\C# Programming\CollectionFramwork\StackVsQueue\obj\Debug\StackVsQueue.csprojAssemblyReference.cache
+G:\C# Programming\CollectionFramwork\StackVsQueue\obj\Debug\StackVsQueue.csproj.CoreCompileInputs.cache
+G:\C# Programming\CollectionFramwork\StackVsQueue\obj\Debug\StackVsQueue.exe
+G:\C# Programming\CollectionFramwork\StackVsQueue\obj\Debug\StackVsQueue.pdb

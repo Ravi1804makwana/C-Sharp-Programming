@@ -1,0 +1,7 @@
+G:\C# Programming\24-09-2020\ExceptionDemo\bin\Debug\ExceptionDemo.exe.config
+G:\C# Programming\24-09-2020\ExceptionDemo\bin\Debug\ExceptionDemo.exe
+G:\C# Programming\24-09-2020\ExceptionDemo\bin\Debug\ExceptionDemo.pdb
+G:\C# Programming\24-09-2020\ExceptionDemo\obj\Debug\ExceptionDemo.csprojAssemblyReference.cache
+G:\C# Programming\24-09-2020\ExceptionDemo\obj\Debug\ExceptionDemo.csproj.CoreCompileInputs.cache
+G:\C# Programming\24-09-2020\ExceptionDemo\obj\Debug\ExceptionDemo.exe
+G:\C# Programming\24-09-2020\ExceptionDemo\obj\Debug\ExceptionDemo.pdb

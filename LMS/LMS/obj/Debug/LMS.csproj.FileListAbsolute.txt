@@ -1,0 +1,7 @@
+G:\C# Programming\LMS\LMS\bin\Debug\LMS.exe.config
+G:\C# Programming\LMS\LMS\bin\Debug\LMS.exe
+G:\C# Programming\LMS\LMS\bin\Debug\LMS.pdb
+G:\C# Programming\LMS\LMS\obj\Debug\LMS.csprojAssemblyReference.cache
+G:\C# Programming\LMS\LMS\obj\Debug\LMS.csproj.CoreCompileInputs.cache
+G:\C# Programming\LMS\LMS\obj\Debug\LMS.exe
+G:\C# Programming\LMS\LMS\obj\Debug\LMS.pdb

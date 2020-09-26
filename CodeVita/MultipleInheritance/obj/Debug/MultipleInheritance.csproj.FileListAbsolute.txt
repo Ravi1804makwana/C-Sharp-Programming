@@ -1,0 +1,6 @@
+G:\C# Programming\CodeVita\MultipleInheritance\bin\Debug\MultipleInheritance.exe.config
+G:\C# Programming\CodeVita\MultipleInheritance\bin\Debug\MultipleInheritance.exe
+G:\C# Programming\CodeVita\MultipleInheritance\bin\Debug\MultipleInheritance.pdb
+G:\C# Programming\CodeVita\MultipleInheritance\obj\Debug\MultipleInheritance.csproj.CoreCompileInputs.cache
+G:\C# Programming\CodeVita\MultipleInheritance\obj\Debug\MultipleInheritance.exe
+G:\C# Programming\CodeVita\MultipleInheritance\obj\Debug\MultipleInheritance.pdb

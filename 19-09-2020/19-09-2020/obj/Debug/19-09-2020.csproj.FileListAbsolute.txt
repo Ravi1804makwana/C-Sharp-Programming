@@ -1,0 +1,7 @@
+G:\C# Programming\19-09-2020\19-09-2020\bin\Debug\19-09-2020.exe.config
+G:\C# Programming\19-09-2020\19-09-2020\bin\Debug\19-09-2020.exe
+G:\C# Programming\19-09-2020\19-09-2020\bin\Debug\19-09-2020.pdb
+G:\C# Programming\19-09-2020\19-09-2020\obj\Debug\19-09-2020.csprojAssemblyReference.cache
+G:\C# Programming\19-09-2020\19-09-2020\obj\Debug\19-09-2020.csproj.CoreCompileInputs.cache
+G:\C# Programming\19-09-2020\19-09-2020\obj\Debug\19-09-2020.exe
+G:\C# Programming\19-09-2020\19-09-2020\obj\Debug\19-09-2020.pdb

@@ -1,0 +1,7 @@
+G:\C# Programming\DecisionTreeClassification\DecisionTreeClassification\bin\Debug\DecisionTreeClassification.exe.config
+G:\C# Programming\DecisionTreeClassification\DecisionTreeClassification\bin\Debug\DecisionTreeClassification.exe
+G:\C# Programming\DecisionTreeClassification\DecisionTreeClassification\bin\Debug\DecisionTreeClassification.pdb
+G:\C# Programming\DecisionTreeClassification\DecisionTreeClassification\obj\Debug\DecisionTreeClassification.csprojAssemblyReference.cache
+G:\C# Programming\DecisionTreeClassification\DecisionTreeClassification\obj\Debug\DecisionTreeClassification.csproj.CoreCompileInputs.cache
+G:\C# Programming\DecisionTreeClassification\DecisionTreeClassification\obj\Debug\DecisionTreeClassification.exe
+G:\C# Programming\DecisionTreeClassification\DecisionTreeClassification\obj\Debug\DecisionTreeClassification.pdb

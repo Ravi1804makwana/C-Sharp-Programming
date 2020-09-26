@@ -1,0 +1,7 @@
+G:\C# Programming\CodeVita\NewNameSpace\bin\Debug\NewNameSpace.exe.config
+G:\C# Programming\CodeVita\NewNameSpace\bin\Debug\NewNameSpace.exe
+G:\C# Programming\CodeVita\NewNameSpace\bin\Debug\NewNameSpace.pdb
+G:\C# Programming\CodeVita\NewNameSpace\obj\Debug\NewNameSpace.csprojAssemblyReference.cache
+G:\C# Programming\CodeVita\NewNameSpace\obj\Debug\NewNameSpace.csproj.CoreCompileInputs.cache
+G:\C# Programming\CodeVita\NewNameSpace\obj\Debug\NewNameSpace.exe
+G:\C# Programming\CodeVita\NewNameSpace\obj\Debug\NewNameSpace.pdb
