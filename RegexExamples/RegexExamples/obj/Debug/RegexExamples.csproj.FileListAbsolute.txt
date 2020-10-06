@@ -1,0 +1,7 @@
+G:\C# Programming\RegexExamples\RegexExamples\bin\Debug\RegexExamples.exe.config
+G:\C# Programming\RegexExamples\RegexExamples\bin\Debug\RegexExamples.exe
+G:\C# Programming\RegexExamples\RegexExamples\bin\Debug\RegexExamples.pdb
+G:\C# Programming\RegexExamples\RegexExamples\obj\Debug\RegexExamples.csprojAssemblyReference.cache
+G:\C# Programming\RegexExamples\RegexExamples\obj\Debug\RegexExamples.csproj.CoreCompileInputs.cache
+G:\C# Programming\RegexExamples\RegexExamples\obj\Debug\RegexExamples.exe
+G:\C# Programming\RegexExamples\RegexExamples\obj\Debug\RegexExamples.pdb

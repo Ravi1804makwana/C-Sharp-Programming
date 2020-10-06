@@ -1,0 +1,7 @@
+G:\C# Programming\KickStart\KickStart\bin\Debug\KickStart.exe.config
+G:\C# Programming\KickStart\KickStart\bin\Debug\KickStart.exe
+G:\C# Programming\KickStart\KickStart\bin\Debug\KickStart.pdb
+G:\C# Programming\KickStart\KickStart\obj\Debug\KickStart.csprojAssemblyReference.cache
+G:\C# Programming\KickStart\KickStart\obj\Debug\KickStart.csproj.CoreCompileInputs.cache
+G:\C# Programming\KickStart\KickStart\obj\Debug\KickStart.exe
+G:\C# Programming\KickStart\KickStart\obj\Debug\KickStart.pdb

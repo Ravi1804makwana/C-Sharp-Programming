@@ -1,0 +1,7 @@
+G:\C# Programming\PreprocessorDirectives\PreprocessorDirectives\bin\Debug\PreprocessorDirectives.exe.config
+G:\C# Programming\PreprocessorDirectives\PreprocessorDirectives\bin\Debug\PreprocessorDirectives.exe
+G:\C# Programming\PreprocessorDirectives\PreprocessorDirectives\bin\Debug\PreprocessorDirectives.pdb
+G:\C# Programming\PreprocessorDirectives\PreprocessorDirectives\obj\Debug\PreprocessorDirectives.csprojAssemblyReference.cache
+G:\C# Programming\PreprocessorDirectives\PreprocessorDirectives\obj\Debug\PreprocessorDirectives.csproj.CoreCompileInputs.cache
+G:\C# Programming\PreprocessorDirectives\PreprocessorDirectives\obj\Debug\PreprocessorDirectives.exe
+G:\C# Programming\PreprocessorDirectives\PreprocessorDirectives\obj\Debug\PreprocessorDirectives.pdb
