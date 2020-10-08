@@ -1,0 +1,7 @@
+G:\C# Programming\PropertiesExamples\PropertiesExamples\obj\Debug\PropertiesExamples.csprojAssemblyReference.cache
+G:\C# Programming\PropertiesExamples\PropertiesExamples\obj\Debug\PropertiesExamples.csproj.CoreCompileInputs.cache
+G:\C# Programming\PropertiesExamples\PropertiesExamples\bin\Debug\PropertiesExamples.exe.config
+G:\C# Programming\PropertiesExamples\PropertiesExamples\bin\Debug\PropertiesExamples.exe
+G:\C# Programming\PropertiesExamples\PropertiesExamples\bin\Debug\PropertiesExamples.pdb
+G:\C# Programming\PropertiesExamples\PropertiesExamples\obj\Debug\PropertiesExamples.exe
+G:\C# Programming\PropertiesExamples\PropertiesExamples\obj\Debug\PropertiesExamples.pdb

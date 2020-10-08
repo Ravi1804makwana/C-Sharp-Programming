@@ -1,0 +1,6 @@
+G:\C# Programming\PropertiesExamples\AbstractProperty\obj\Debug\AbstractProperty.csproj.CoreCompileInputs.cache
+G:\C# Programming\PropertiesExamples\AbstractProperty\bin\Debug\AbstractProperty.exe.config
+G:\C# Programming\PropertiesExamples\AbstractProperty\bin\Debug\AbstractProperty.exe
+G:\C# Programming\PropertiesExamples\AbstractProperty\bin\Debug\AbstractProperty.pdb
+G:\C# Programming\PropertiesExamples\AbstractProperty\obj\Debug\AbstractProperty.exe
+G:\C# Programming\PropertiesExamples\AbstractProperty\obj\Debug\AbstractProperty.pdb

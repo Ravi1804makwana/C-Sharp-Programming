@@ -1,0 +1,7 @@
+G:\C# Programming\IndexerExamples\IndexerExamples\bin\Debug\IndexerExamples.exe.config
+G:\C# Programming\IndexerExamples\IndexerExamples\bin\Debug\IndexerExamples.exe
+G:\C# Programming\IndexerExamples\IndexerExamples\bin\Debug\IndexerExamples.pdb
+G:\C# Programming\IndexerExamples\IndexerExamples\obj\Debug\IndexerExamples.csprojAssemblyReference.cache
+G:\C# Programming\IndexerExamples\IndexerExamples\obj\Debug\IndexerExamples.csproj.CoreCompileInputs.cache
+G:\C# Programming\IndexerExamples\IndexerExamples\obj\Debug\IndexerExamples.exe
+G:\C# Programming\IndexerExamples\IndexerExamples\obj\Debug\IndexerExamples.pdb

@@ -1,0 +1,7 @@
+G:\C# Programming\AnonymousMethods\AnonymousMethods\bin\Debug\AnonymousMethods.exe.config
+G:\C# Programming\AnonymousMethods\AnonymousMethods\bin\Debug\AnonymousMethods.exe
+G:\C# Programming\AnonymousMethods\AnonymousMethods\bin\Debug\AnonymousMethods.pdb
+G:\C# Programming\AnonymousMethods\AnonymousMethods\obj\Debug\AnonymousMethods.csprojAssemblyReference.cache
+G:\C# Programming\AnonymousMethods\AnonymousMethods\obj\Debug\AnonymousMethods.csproj.CoreCompileInputs.cache
+G:\C# Programming\AnonymousMethods\AnonymousMethods\obj\Debug\AnonymousMethods.exe
+G:\C# Programming\AnonymousMethods\AnonymousMethods\obj\Debug\AnonymousMethods.pdb

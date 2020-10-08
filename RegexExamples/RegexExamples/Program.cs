@@ -43,6 +43,13 @@ namespace RegexExamples
                 Console.WriteLine("Try Again : ");
                 ipAddress = Console.ReadLine();
             }
+
+            string text = @"<a>One</a> and <b>Two and <u>Three</u> and <i>Four</i>";
+            MatchCollection matchCollection = Regex.Matches(text, @"[<]\S*[>]\w*[<]/\S*[>]");
+            foreach (var m in matchCollection)
+            {
+                Console.WriteLine(m);
+            }
             Console.ReadKey();
         }
     }
