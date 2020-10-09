@@ -35,7 +35,6 @@ namespace HashTableVsDictionary
                 Console.WriteLine(key + " : " + hashtable[key]);
             }
             Console.WriteLine();
-            hashtable.CopyTo();
             hashtable.Remove("17CE014");
             foreach (var key in keys)
             {
