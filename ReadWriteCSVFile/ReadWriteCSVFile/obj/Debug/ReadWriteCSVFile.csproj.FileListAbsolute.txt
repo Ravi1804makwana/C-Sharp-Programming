@@ -1,0 +1,7 @@
+G:\C# Programming\ReadWriteCSVFile\ReadWriteCSVFile\bin\Debug\ReadWriteCSVFile.exe.config
+G:\C# Programming\ReadWriteCSVFile\ReadWriteCSVFile\bin\Debug\ReadWriteCSVFile.exe
+G:\C# Programming\ReadWriteCSVFile\ReadWriteCSVFile\bin\Debug\ReadWriteCSVFile.pdb
+G:\C# Programming\ReadWriteCSVFile\ReadWriteCSVFile\obj\Debug\ReadWriteCSVFile.csprojAssemblyReference.cache
+G:\C# Programming\ReadWriteCSVFile\ReadWriteCSVFile\obj\Debug\ReadWriteCSVFile.csproj.CoreCompileInputs.cache
+G:\C# Programming\ReadWriteCSVFile\ReadWriteCSVFile\obj\Debug\ReadWriteCSVFile.exe
+G:\C# Programming\ReadWriteCSVFile\ReadWriteCSVFile\obj\Debug\ReadWriteCSVFile.pdb
