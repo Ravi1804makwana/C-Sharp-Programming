@@ -1,0 +1,7 @@
+G:\C# Programming\MultithreadingProgramming\SynchronizedNumberGenerator\bin\Debug\SynchronizedNumberGenerator.exe.config
+G:\C# Programming\MultithreadingProgramming\SynchronizedNumberGenerator\bin\Debug\SynchronizedNumberGenerator.exe
+G:\C# Programming\MultithreadingProgramming\SynchronizedNumberGenerator\bin\Debug\SynchronizedNumberGenerator.pdb
+G:\C# Programming\MultithreadingProgramming\SynchronizedNumberGenerator\obj\Debug\SynchronizedNumberGenerator.csprojAssemblyReference.cache
+G:\C# Programming\MultithreadingProgramming\SynchronizedNumberGenerator\obj\Debug\SynchronizedNumberGenerator.csproj.CoreCompileInputs.cache
+G:\C# Programming\MultithreadingProgramming\SynchronizedNumberGenerator\obj\Debug\SynchronizedNumberGenerator.exe
+G:\C# Programming\MultithreadingProgramming\SynchronizedNumberGenerator\obj\Debug\SynchronizedNumberGenerator.pdb

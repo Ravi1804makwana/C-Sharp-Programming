@@ -1,0 +1,7 @@
+G:\C# Programming\MultithreadingProgramming\SynchronizationWIthKeyWord\bin\Debug\SynchronizationWIthKeyWord.exe.config
+G:\C# Programming\MultithreadingProgramming\SynchronizationWIthKeyWord\bin\Debug\SynchronizationWIthKeyWord.exe
+G:\C# Programming\MultithreadingProgramming\SynchronizationWIthKeyWord\bin\Debug\SynchronizationWIthKeyWord.pdb
+G:\C# Programming\MultithreadingProgramming\SynchronizationWIthKeyWord\obj\Debug\SynchronizationWIthKeyWord.csproj.CoreCompileInputs.cache
+G:\C# Programming\MultithreadingProgramming\SynchronizationWIthKeyWord\obj\Debug\SynchronizationWIthKeyWord.exe
+G:\C# Programming\MultithreadingProgramming\SynchronizationWIthKeyWord\obj\Debug\SynchronizationWIthKeyWord.pdb
+G:\C# Programming\MultithreadingProgramming\SynchronizationWIthKeyWord\obj\Debug\SynchronizationWIthKeyWord.csprojAssemblyReference.cache

@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Threading;
 using Controller;
 using Model;
 namespace View
@@ -16,8 +17,13 @@ namespace View
             Console.WriteLine("... Welcome to Library Management System ...");
             Console.WriteLine();
             DAO dAO = new DAO();
+            
+            // In Web Application at same time more than one user are create a thread rather than process.
+            Thread thread = new Thread(dAO.GetData);
+            thread.Start();
+//            dAO.GetData();
+
             Transactions transactions = new Transactions();
-            dAO.GetData();
             int userId, isbnNo,time,stock,pageNo, age,semester,salary;
             string title, author,name,branch,post;
             string mediaType;

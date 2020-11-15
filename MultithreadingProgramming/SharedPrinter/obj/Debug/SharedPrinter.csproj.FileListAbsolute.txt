@@ -1,0 +1,7 @@
+G:\C# Programming\MultithreadingProgramming\SharedPrinter\bin\Debug\SharedPrinter.exe.config
+G:\C# Programming\MultithreadingProgramming\SharedPrinter\bin\Debug\SharedPrinter.exe
+G:\C# Programming\MultithreadingProgramming\SharedPrinter\bin\Debug\SharedPrinter.pdb
+G:\C# Programming\MultithreadingProgramming\SharedPrinter\obj\Debug\SharedPrinter.csproj.CoreCompileInputs.cache
+G:\C# Programming\MultithreadingProgramming\SharedPrinter\obj\Debug\SharedPrinter.exe
+G:\C# Programming\MultithreadingProgramming\SharedPrinter\obj\Debug\SharedPrinter.pdb
+G:\C# Programming\MultithreadingProgramming\SharedPrinter\obj\Debug\SharedPrinter.csprojAssemblyReference.cache

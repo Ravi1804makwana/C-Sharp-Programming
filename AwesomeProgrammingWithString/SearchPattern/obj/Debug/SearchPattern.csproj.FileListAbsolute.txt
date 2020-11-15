@@ -1,0 +1,6 @@
+G:\C# Programming\AwesomeProgrammingWithString\SearchPattern\bin\Debug\SearchPattern.exe.config
+G:\C# Programming\AwesomeProgrammingWithString\SearchPattern\bin\Debug\SearchPattern.exe
+G:\C# Programming\AwesomeProgrammingWithString\SearchPattern\bin\Debug\SearchPattern.pdb
+G:\C# Programming\AwesomeProgrammingWithString\SearchPattern\obj\Debug\SearchPattern.csproj.CoreCompileInputs.cache
+G:\C# Programming\AwesomeProgrammingWithString\SearchPattern\obj\Debug\SearchPattern.exe
+G:\C# Programming\AwesomeProgrammingWithString\SearchPattern\obj\Debug\SearchPattern.pdb

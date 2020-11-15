@@ -1,0 +1,6 @@
+G:\C# Programming\AwesomeProgrammingWithString\TextAnalysis\bin\Debug\TextAnalysis.exe.config
+G:\C# Programming\AwesomeProgrammingWithString\TextAnalysis\bin\Debug\TextAnalysis.exe
+G:\C# Programming\AwesomeProgrammingWithString\TextAnalysis\bin\Debug\TextAnalysis.pdb
+G:\C# Programming\AwesomeProgrammingWithString\TextAnalysis\obj\Debug\TextAnalysis.csproj.CoreCompileInputs.cache
+G:\C# Programming\AwesomeProgrammingWithString\TextAnalysis\obj\Debug\TextAnalysis.exe
+G:\C# Programming\AwesomeProgrammingWithString\TextAnalysis\obj\Debug\TextAnalysis.pdb

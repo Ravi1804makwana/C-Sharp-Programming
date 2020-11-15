@@ -1,0 +1,7 @@
+G:\C# Programming\Kick Start Round H\ReType\bin\Debug\ReType.exe.config
+G:\C# Programming\Kick Start Round H\ReType\bin\Debug\ReType.exe
+G:\C# Programming\Kick Start Round H\ReType\bin\Debug\ReType.pdb
+G:\C# Programming\Kick Start Round H\ReType\obj\Debug\ReType.csprojAssemblyReference.cache
+G:\C# Programming\Kick Start Round H\ReType\obj\Debug\ReType.csproj.CoreCompileInputs.cache
+G:\C# Programming\Kick Start Round H\ReType\obj\Debug\ReType.exe
+G:\C# Programming\Kick Start Round H\ReType\obj\Debug\ReType.pdb

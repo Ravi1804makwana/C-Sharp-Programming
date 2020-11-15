@@ -1,0 +1,7 @@
+G:\C# Programming\MultithreadingProgramming\TypeWriter\bin\Debug\TypeWriter.exe.config
+G:\C# Programming\MultithreadingProgramming\TypeWriter\bin\Debug\TypeWriter.exe
+G:\C# Programming\MultithreadingProgramming\TypeWriter\bin\Debug\TypeWriter.pdb
+G:\C# Programming\MultithreadingProgramming\TypeWriter\obj\Debug\TypeWriter.csproj.CoreCompileInputs.cache
+G:\C# Programming\MultithreadingProgramming\TypeWriter\obj\Debug\TypeWriter.exe
+G:\C# Programming\MultithreadingProgramming\TypeWriter\obj\Debug\TypeWriter.pdb
+G:\C# Programming\MultithreadingProgramming\TypeWriter\obj\Debug\TypeWriter.csprojAssemblyReference.cache

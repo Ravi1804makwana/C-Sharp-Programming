@@ -1,0 +1,7 @@
+G:\C# Programming\Kick Start Round H\BoringNumber\bin\Debug\BoringNumber.exe.config
+G:\C# Programming\Kick Start Round H\BoringNumber\bin\Debug\BoringNumber.exe
+G:\C# Programming\Kick Start Round H\BoringNumber\bin\Debug\BoringNumber.pdb
+G:\C# Programming\Kick Start Round H\BoringNumber\obj\Debug\BoringNumber.csproj.CoreCompileInputs.cache
+G:\C# Programming\Kick Start Round H\BoringNumber\obj\Debug\BoringNumber.exe
+G:\C# Programming\Kick Start Round H\BoringNumber\obj\Debug\BoringNumber.pdb
+G:\C# Programming\Kick Start Round H\BoringNumber\obj\Debug\BoringNumber.csprojAssemblyReference.cache

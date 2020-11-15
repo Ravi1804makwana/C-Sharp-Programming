@@ -1,0 +1,7 @@
+G:\C# Programming\PlayfairCipher\PlayfairCipher\bin\Debug\PlayfairCipher.exe.config
+G:\C# Programming\PlayfairCipher\PlayfairCipher\bin\Debug\PlayfairCipher.exe
+G:\C# Programming\PlayfairCipher\PlayfairCipher\bin\Debug\PlayfairCipher.pdb
+G:\C# Programming\PlayfairCipher\PlayfairCipher\obj\Debug\PlayfairCipher.csprojAssemblyReference.cache
+G:\C# Programming\PlayfairCipher\PlayfairCipher\obj\Debug\PlayfairCipher.csproj.CoreCompileInputs.cache
+G:\C# Programming\PlayfairCipher\PlayfairCipher\obj\Debug\PlayfairCipher.exe
+G:\C# Programming\PlayfairCipher\PlayfairCipher\obj\Debug\PlayfairCipher.pdb

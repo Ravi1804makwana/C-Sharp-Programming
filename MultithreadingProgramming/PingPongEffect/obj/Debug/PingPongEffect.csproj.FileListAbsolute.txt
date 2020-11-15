@@ -1,0 +1,7 @@
+G:\C# Programming\MultithreadingProgramming\PingPongEffect\bin\Debug\PingPongEffect.exe.config
+G:\C# Programming\MultithreadingProgramming\PingPongEffect\bin\Debug\PingPongEffect.exe
+G:\C# Programming\MultithreadingProgramming\PingPongEffect\bin\Debug\PingPongEffect.pdb
+G:\C# Programming\MultithreadingProgramming\PingPongEffect\obj\Debug\PingPongEffect.csprojAssemblyReference.cache
+G:\C# Programming\MultithreadingProgramming\PingPongEffect\obj\Debug\PingPongEffect.csproj.CoreCompileInputs.cache
+G:\C# Programming\MultithreadingProgramming\PingPongEffect\obj\Debug\PingPongEffect.exe
+G:\C# Programming\MultithreadingProgramming\PingPongEffect\obj\Debug\PingPongEffect.pdb

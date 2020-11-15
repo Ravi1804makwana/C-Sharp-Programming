@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultithreadingProgramming", "MultithreadingProgramming\MultithreadingProgramming.csproj", "{EC748EF8-DBB9-4402-B1FE-C40EE9F151EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SynchronizedNumberGenerator", "SynchronizedNumberGenerator\SynchronizedNumberGenerator.csproj", "{40694A9A-BB93-47A3-8B88-A78F32A68E75}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SynchronizationWIthKeyWord", "SynchronizationWIthKeyWord\SynchronizationWIthKeyWord.csproj", "{94575747-1783-45DC-B423-622733D1313F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharedPrinter", "SharedPrinter\SharedPrinter.csproj", "{E9DA589A-CD9C-49C3-BA60-04C68A25940C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PingPongEffect", "PingPongEffect\PingPongEffect.csproj", "{656B3A97-FF19-41A2-8374-0388D485615C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TypeWriter", "TypeWriter\TypeWriter.csproj", "{4D3DE45C-D00B-480C-85A7-A7382DB22E0B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC748EF8-DBB9-4402-B1FE-C40EE9F151EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC748EF8-DBB9-4402-B1FE-C40EE9F151EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC748EF8-DBB9-4402-B1FE-C40EE9F151EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC748EF8-DBB9-4402-B1FE-C40EE9F151EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40694A9A-BB93-47A3-8B88-A78F32A68E75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40694A9A-BB93-47A3-8B88-A78F32A68E75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40694A9A-BB93-47A3-8B88-A78F32A68E75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40694A9A-BB93-47A3-8B88-A78F32A68E75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94575747-1783-45DC-B423-622733D1313F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94575747-1783-45DC-B423-622733D1313F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94575747-1783-45DC-B423-622733D1313F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94575747-1783-45DC-B423-622733D1313F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9DA589A-CD9C-49C3-BA60-04C68A25940C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9DA589A-CD9C-49C3-BA60-04C68A25940C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9DA589A-CD9C-49C3-BA60-04C68A25940C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9DA589A-CD9C-49C3-BA60-04C68A25940C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{656B3A97-FF19-41A2-8374-0388D485615C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{656B3A97-FF19-41A2-8374-0388D485615C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{656B3A97-FF19-41A2-8374-0388D485615C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{656B3A97-FF19-41A2-8374-0388D485615C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D3DE45C-D00B-480C-85A7-A7382DB22E0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D3DE45C-D00B-480C-85A7-A7382DB22E0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D3DE45C-D00B-480C-85A7-A7382DB22E0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D3DE45C-D00B-480C-85A7-A7382DB22E0B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AED31CC8-E952-4CCF-9796-9622B86B7AD0}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,7 @@
+G:\C# Programming\AwesomeProgrammingWithString\AwesomeProgrammingWithString\bin\Debug\AwesomeProgrammingWithString.exe.config
+G:\C# Programming\AwesomeProgrammingWithString\AwesomeProgrammingWithString\bin\Debug\AwesomeProgrammingWithString.exe
+G:\C# Programming\AwesomeProgrammingWithString\AwesomeProgrammingWithString\bin\Debug\AwesomeProgrammingWithString.pdb
+G:\C# Programming\AwesomeProgrammingWithString\AwesomeProgrammingWithString\obj\Debug\AwesomeProgrammingWithString.csprojAssemblyReference.cache
+G:\C# Programming\AwesomeProgrammingWithString\AwesomeProgrammingWithString\obj\Debug\AwesomeProgrammingWithString.csproj.CoreCompileInputs.cache
+G:\C# Programming\AwesomeProgrammingWithString\AwesomeProgrammingWithString\obj\Debug\AwesomeProgrammingWithString.exe
+G:\C# Programming\AwesomeProgrammingWithString\AwesomeProgrammingWithString\obj\Debug\AwesomeProgrammingWithString.pdb
